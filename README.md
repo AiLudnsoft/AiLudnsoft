@@ -1,4 +1,4 @@
-# magicpod
+# AiLudnsoft
 『好き好きタマお姉ちゃん』
 
 ## 概要
